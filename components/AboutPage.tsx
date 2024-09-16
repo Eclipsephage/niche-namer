@@ -17,7 +17,7 @@ export function AboutPage() {
             <Zap className="mr-2 h-8 w-8 text-blue-500" />
             About NicheNamer
           </CardTitle>
-          <CardDescription className="text-center text-lg">Unleash Your Brand's Potential with AI-Powered Naming</CardDescription>
+          <CardDescription className="text-center text-lg">Unleash Your Brand&apos;s Potential with AI-Powered Naming</CardDescription>
         </CardHeader>
         <CardContent className="space-y-6">
           <p className="text-lg">
@@ -54,7 +54,7 @@ export function AboutPage() {
               Get Started
             </h3>
             <p>
-              Whether you're launching a new startup, rebranding your existing business, or simply exploring potential names for a project, NicheNamer is here to inspire and assist you in finding the perfect name that resonates with your target audience and encapsulates your brand's essence.
+              Whether you&apos;re launching a new startup, rebranding your existing business, or simply exploring potential names for a project, NicheNamer is here to inspire and assist you in finding the perfect name that resonates with your target audience and encapsulates your brand&apos;s essence.
             </p>
           </div>
 
