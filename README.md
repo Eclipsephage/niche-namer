@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Its task is simple.  To come up with niche names for companies, books, etc. through the use of A.I.  The system then forms a social network around the choices, updating the user on what best "hits" with the populace.
 
 ## Getting Started
 
